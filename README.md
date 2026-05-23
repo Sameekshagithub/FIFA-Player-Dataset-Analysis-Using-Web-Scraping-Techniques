@@ -1,5 +1,4 @@
 # FIFA-Player-Dataset-Analysis-Using-Web-Scraping-Techniques
-# ⚽ Scouting with Python: FIFA Player Analytics via Web Scraping
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)](https://python.org)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)](https://jupyter.org)
