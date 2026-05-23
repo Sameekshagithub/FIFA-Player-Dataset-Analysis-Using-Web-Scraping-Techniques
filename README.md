@@ -1,0 +1,2 @@
+# FIFA-Player-Dataset-Analysis-Using-Web-Scraping-Techniques
+A complete data analytics project that uses web scraping techniques to collect FIFA player data and perform detailed analysis using Python, pandas, and visualization libraries. The project explores player performance, ratings, positions, club statistics, and market values to generate meaningful football insights and interactive visual reports.
